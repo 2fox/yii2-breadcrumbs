@@ -1,5 +1,5 @@
 {
-  "name": "twofox/yii2-breadcrumbs",
+  "name": "2fox/yii2-breadcrumbs",
   "description": "yii2 breadcrumbs Schema.org support",
   "type": "yii2-extension",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "twofox\\infinitescroll\\": ""
+      "twofox\\breadcrumbs\\": ""
     }
   }
 }
