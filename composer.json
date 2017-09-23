@@ -1,0 +1,29 @@
+{
+  "name": "twofox/yii2-breadcrumbs",
+  "description": "Link pager with infinite scroll support.",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "infinite",
+    "scroll",
+    "endless",
+    "autopagerize",
+    "pager"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dmytro Gural",
+      "email": "admin@2fox.org"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "twofox\\infinitescroll\\": ""
+    }
+  }
+}
