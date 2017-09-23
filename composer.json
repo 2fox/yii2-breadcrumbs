@@ -1,6 +1,6 @@
 {
   "name": "twofox/yii2-breadcrumbs",
-  "description": "Link pager with infinite scroll support.",
+  "description": "yii2 breadcrumbs Schema.org support",
   "type": "yii2-extension",
   "keywords": [
     "yii2",
