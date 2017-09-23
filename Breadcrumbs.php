@@ -1,6 +1,6 @@
 <?php
 
-namespace twofox\Breadcrumbs;
+namespace twofox\breadcrumbs;
 
 use yii\helpers\Html;
 use yii\base\InvalidConfigException;
